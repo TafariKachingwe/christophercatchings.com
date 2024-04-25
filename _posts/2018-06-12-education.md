@@ -1,16 +1,17 @@
 ---
 
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "React vs. React Native: Building Web vs. Mobile Apps"
 author: softwareshinobi
-categories: [ Lifestyle ]
+categories: [ JavaScript ]
+tags: [ #react #reactnative #javascript #webdev #mobiledev #development ]
 image: assets/images/3.jpg
-beforetoc: "Prism highlighter is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post. Tocs is also enabled as you can see in summary."
-toc: true
+beforetoc: "React and React Native are both powerful JavaScript libraries. Let's break down the key distinctions."
+toc: false
 
 ---
 
-## React vs. React Native: Building Web vs. Mobile Apps
+## 
 
 React and React Native are both powerful JavaScript libraries, but they cater to different development environments. Let's break down the key distinctions:
 
@@ -33,6 +34,6 @@ React and React Native are both powerful JavaScript libraries, but they cater to
 
 Both React and React Native have their strengths. Understanding which one aligns best with your project goals is crucial for building successful web or mobile applications.
 
-**#react #reactnative #javascript #webdev #mobiledev #development**
+****
 
 Use code
