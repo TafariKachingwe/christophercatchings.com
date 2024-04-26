@@ -23,11 +23,11 @@ include: ["_pages"]
 
 permalink: /:title/
 
-email: wowthemesnet@gmail.com
+email: the.software.shinobi@gmail.com
 
 # Authors
 authors:
-  sal:
+  softwareshinobi:
     name: softwareshinobi
     display_name: Software Shinobi
     avatar: 'assets/images/avatar-sal.png'
