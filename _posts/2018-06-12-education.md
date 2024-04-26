@@ -4,7 +4,7 @@ layout: post
 title:  "React vs. React Native: Building Web vs. Mobile Apps"
 author: softwareshinobi
 categories: [ JavaScript ]
-tags: [ react ,reactnative ,javascript ,websites ,mobileapps ,development** ]
+tags: [ react ,reactnative ,javascript ,websites ,MobileApps ,development ]
 image: assets/images/3.jpg
 beforetoc: "React and React Native are both powerful JavaScript libraries. Let's break down the key distinctions."
 toc: true
