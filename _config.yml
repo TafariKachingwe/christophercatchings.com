@@ -30,11 +30,11 @@ authors:
   softwareshinobi:
     name: softwareshinobi
     display_name: Software Shinobi
-    avatar: 'assets/images/softwareshinobi.png'
+    avatar: 'assets/images/softwareshinobi.jpg'
     email: the.software.shinobi@gmail.com
     web: https://softwareshinobi.digital
     twitter: https://twitter.com/softwareshinobi
-    description: "I'm a freelance web developer. I make web sites and mobile apps and server backends."
+    description: "i'm a freelance web developer. I make web sites and mobile apps and server backends."
 
 # Plugins
 plugins:
