@@ -4,7 +4,7 @@ name: "Software Shinobi"
 
 title: "Freelance Web Developer"
 
-description: "I'm a freelance web developer. I make web sites and mobile apps and server backends."
+description: "i'm a freelance web developer. u make web sites and mobile apps and server backends."
 
 logo: 'assets/images/logo.png'
 
@@ -20,12 +20,16 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 include: ["_pages"]
 
-permalink: /:title/
+permalink: /:category/:title/
 
 email: the.software.shinobi@gmail.com
 
-# Authors
+##
+## Authors
+##
+
 authors:
+
   softwareshinobi:
     name: softwareshinobi
     display_name: Software Shinobi
@@ -33,7 +37,7 @@ authors:
     email: the.software.shinobi@gmail.com
     web: https://softwareshinobi.digital
     twitter: https://twitter.com/softwareshinobi
-    description: "i'm a freelance web developer. I make web sites and mobile apps and server backends."
+    description: "i'm a freelance web developer. i make web sites and mobile apps and server backends."
 
 # Plugins
 plugins:
@@ -56,7 +60,7 @@ jekyll-archives:
 ## Pagination
 ##
 
-paginate: 8
+paginate: 24
 
 paginate_path: /page:num/
     
