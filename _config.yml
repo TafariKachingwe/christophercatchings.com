@@ -20,7 +20,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 include: ["_pages"]
 
-permalink: /:category/:title/
+permalink: /:categories/:title/
 
 email: the.software.shinobi@gmail.com
 
