@@ -67,44 +67,6 @@ KanbanFlow has empowered freelance professionals and small teams to manage their
 
 * **Enhanced Collaboration:** Real-time updates and shared project boards facilitate seamless teamwork.
 
-## User Reviews
-
-<div>
-
-<i>
-
-"KanbanFlow is a breath of fresh air! It's the perfect solution for our team's needs. We can finally manage projects and tasks efficiently without getting bogged down by complex features. Thanks for creating such a user-friendly and effective tool!" 
-
-</i>
-
-<b>
-
-Sarah Lee, Marketing Consultant
-
-</b>
-
-</div>
-
-<p></p>
-
-<div>
-
-<i>
-
-"KanbanFlow is a breath of fresh air! It's the perfect solution for our team's needs. We can finally manage projects and tasks efficiently without getting bogged down by complex features. Thanks for creating such a user-friendly and effective tool!" 
-
-</i>
-
-<b>
-
-Sarah Lee, Marketing Consultant
-
-</b>
-
-</div>
-
-<p></p>
-
 ## Future Changes
 
 This project was developed for a consortium of freelance professionals from various industries, all seeking a lightweight and adaptable task management solution. 
