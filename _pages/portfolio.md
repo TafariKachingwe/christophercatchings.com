@@ -4,7 +4,6 @@ title: The Portfolio Page
 permalink: /portfolio/
 comments: false
 image: image: assets/images/portfolio/articlemagick.png
-assets/images/screenshot.jpg
 imageshadow: true
 ---
 
