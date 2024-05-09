@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Portfolio Page
-permalink: /portfolio
+permalink: /portfolio/
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
