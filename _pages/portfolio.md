@@ -3,7 +3,8 @@ layout: page
 title: The Portfolio Page
 permalink: /portfolio/
 comments: false
-image: assets/images/screenshot.jpg
+image: image: assets/images/portfolio/articlemagick.png
+assets/images/screenshot.jpg
 imageshadow: true
 ---
 
