@@ -20,4 +20,4 @@ Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we wil
 * Compatibility with multiple versions of Docker Compose
 * A conversion matrix that outlines all compatible values and versions
 
-<a class="btn btn-primary" href="/freelance/get-project-on-track">Learn More</a>
+<a class="btn btn-primary" href="/portfolio/articlemagick">Learn More</a>
