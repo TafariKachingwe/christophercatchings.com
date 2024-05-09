@@ -37,7 +37,7 @@ So like... all that's cool. I guess. At least, to me, at one point in my life.
 
 Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
 
-![Software Shinobi](assets/images/portfolio/napkinexchange.png)
+![Software Shinobi](assets/images/portfolio/articlemagick.png)
 
 Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
 
@@ -57,7 +57,7 @@ Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we wil
 
 Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
 
-![Software Shinobi](/assets/imagery/portfolio/articlemagick.png)
+![Software Shinobi](/assets/images/portfolio/articlemagick.png)
 
 Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
 

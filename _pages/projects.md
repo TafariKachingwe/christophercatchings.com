@@ -3,7 +3,7 @@
 An official Kubernetes project, located at github.com/kubernetes/kompose
 Go from Docker Compose to Kubernetes.
 
-![Software Shinobi](/assets/imagery/softwareshinobi.png)
+![Software Shinobi](/assets/images/softwareshinobi.png)
 
 I design, code, test, document, and deploy software situations.
 
