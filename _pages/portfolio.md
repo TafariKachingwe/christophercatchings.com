@@ -3,11 +3,11 @@ layout: page
 title: The Portfolio Page
 permalink: /portfolio/
 comments: false
-image: assets/images/portfolio/articlemagick.png
+image: assets/images/softwareshinobi.png
 imageshadow: true
 ---
 
-## The Napkin Exchange
+## Article Magick
 
 Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
 
