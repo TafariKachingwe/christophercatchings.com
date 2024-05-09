@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Article Magick - Brew Up TextOps Alchemy
+title: "Harness the power of content creation and automation to transform your ContentOps"
 permalink: /portfolio/articlemagick
 comments: false
 image: assets/imagery/portfolio/articlemagick/cover.png
 imageshadow: true
 ---
-
-Harness the power of content creation and automation to transform your ContentOps.
 
 **Article Magick is a REST-enabled API and intuitive dashboard that empowers you to effortlessly manipulate, analyze, and optimize text, taking your content operations to a whole new level.**
 
