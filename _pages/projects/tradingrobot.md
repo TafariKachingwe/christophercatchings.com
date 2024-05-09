@@ -1,7 +1,7 @@
 ---
 layout: page
 title: article magic, a free minimalist Jekyll blogging theme with modern design 
-permalink: /tradingrobot922
+permalink: /tradingrobo/t922
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
