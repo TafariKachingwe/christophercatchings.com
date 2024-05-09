@@ -5,9 +5,10 @@ permalink: /portfolio/articlemagick
 comments: false
 image: assets/imagery/portfolio/articlemagick/cover.png
 imageshadow: true
+
 ---
 
-**Article Magick is a REST-enabled API and intuitive dashboard that empowers you to effortlessly manipulate, analyze, and optimize text, taking your content operations to a whole new level.**
+**Article Magick is a REST-enabled API and intuitive dashboard** that empowers you to effortlessly manipulate, analyze, and optimize text, taking your content operations to a whole new level.
 
 ## Project Overview
 
