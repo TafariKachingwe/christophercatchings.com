@@ -9,8 +9,6 @@ imageshadow: true
 
 Harness the power of content creation and automation to transform your ContentOps.
 
-!["Article Magick: TextOps For The Rest Of Us"](/assets/imagery/portfolio/articlemagick/banner.png)
-
 **Article Magick is a REST-enabled API and intuitive dashboard that empowers you to effortlessly manipulate, analyze, and optimize text, taking your content operations to a whole new level.**
 
 ## Project Overview
@@ -105,7 +103,7 @@ Sarah Lee, Marketing Consultant
 
 </div>
 
-<br />
+<p></p>
 
 ## Future Changes
 
