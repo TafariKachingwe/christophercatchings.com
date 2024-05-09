@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Memoirs, a free m@@@@@inimalist Jekyll blogging theme with modern design 
-permalink: /tradingrobot/22
+title: article magic, a free minimalist Jekyll blogging theme with modern design 
+permalink: /tradingrobot922
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
