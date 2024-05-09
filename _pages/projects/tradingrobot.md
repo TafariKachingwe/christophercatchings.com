@@ -1,3 +1,12 @@
+---
+layout: page
+title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+permalink: /tradingrobot22
+comments: false
+image: assets/images/screenshot.jpg
+imageshadow: true
+---
+
 ## Article Magick
 
 Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
