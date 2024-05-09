@@ -11,7 +11,7 @@ imageshadow: true
 
 Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
 
-![Software Shinobi](assets/images/softwareshinobi.png)
+![Software Shinobi](/assets/images/softwareshinobi.png)
 
 Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
 
