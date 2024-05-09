@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
-permalink: /tradingrobot22
+title: Memoirs, a free m@@@@@inimalist Jekyll blogging theme with modern design 
+permalink: /tradingrobot/22
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
