@@ -3,13 +3,13 @@ layout: page
 title: Article Magick - Brew Up TextOps Alchemy
 permalink: /portfolio/articlemagick
 comments: false
-image: assets/images/softwareshinobi.png
+image: assets/imagery/portfolio/articlemagick/cover.png
 imageshadow: true
 ---
 
 Harness the power of content creation and automation to transform your ContentOps.
 
-!["Article Magick: TextOps For The Rest Of Us"](/assets/imagery/portfolio/articlemagick/cover.png)
+!["Article Magick: TextOps For The Rest Of Us"](/assets/imagery/portfolio/articlemagick/banner.png)
 
 **Article Magick is a REST-enabled API and intuitive dashboard that empowers you to effortlessly manipulate, analyze, and optimize text, taking your content operations to a whole new level.**
 
