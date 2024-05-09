@@ -10,9 +10,7 @@ Sup!
 
 <div class="blog-grid-container">
 
-{% assign pages_list = site.posts | where: 'category', 'Web Sites' %}
-
-{% assign web_site_posts = site.posts | where: 'category', 'Web Sites' %}
+{% assign web_site_posts = site.posts | where: 'category', 'JavaScript' %}
 
 {% for post in web_site_posts %}
 {% if post.title != null %}
