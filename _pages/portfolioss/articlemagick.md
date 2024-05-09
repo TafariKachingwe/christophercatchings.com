@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Article Magick: Brew Up TextOps Alchemy
+title: Article Magick - Brew Up TextOps Alchemy
 permalink: /portfolio/articlemagick
 comments: false
 image: assets/images/softwareshinobi.png
