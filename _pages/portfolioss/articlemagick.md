@@ -57,7 +57,7 @@ To achieve a user-friendly and efficient web application, KanbanFlow leverages a
 
 This project was developed for a consortium of freelance professionals from various industries, all seeking a lightweight and adaptable task management solution. 
 
-<a href="https://docs.articlemagick.softwareshinobi.digital">Technical Documentation</a>
+<a class="btn btn-primary" href="https://docs.articlemagick.softwareshinobi.digital">Technical Documentation</a>
 
 ## Results & Impact
 
@@ -104,6 +104,8 @@ Sarah Lee, Marketing Consultant
 </b>
 
 </div>
+
+<br />
 
 ## Future Changes
 
@@ -188,7 +190,7 @@ This project was developed for a consortium of freelance professionals from vari
 
 This project was developed for a consortium of freelance professionals from various industries, all seeking a lightweight and adaptable task management solution. 
 
-<a href="https://links.articlemagick.softwareshinobi.digital">Go To Links Portal</a>
+<a class="btn btn-primary" href="https://links.articlemagick.softwareshinobi.digital">Link Portal</a>
 
 ## Credits ✨
 
@@ -202,6 +204,6 @@ Readme created in part by Bard, your friendly AI assistant from Google AI! I lov
 
 Get in the driver's seat. Click the link below to get behind the wheel of Article Magic. Let's change how the world does Content Ops.
 
-[Live Demo](https://articlemagick.softwareshinobi.digital/dashboard/rewrite-percent-difference.html)
+<a class="btn btn-primary" href="https://articlemagick.softwareshinobi.digital/dashboard/rewrite-percent-difference.html">Live Demo</a>
 
 ## namaste.
