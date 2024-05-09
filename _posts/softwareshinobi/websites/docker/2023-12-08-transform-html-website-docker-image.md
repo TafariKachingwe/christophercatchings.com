@@ -6,7 +6,7 @@ author: softwareshinobi
 
 title:  "Transform Your HTML Source Code Into A Docker Image [2023]"
 
-categories: [html,docker]
+categories: [ Web Sites, Docker ]
 
 image: assets/images/softwareshinobi/html/docker/transform-html-website-docker-image.png
 
