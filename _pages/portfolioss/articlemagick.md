@@ -159,26 +159,26 @@ This project was developed for a consortium of freelance professionals from vari
 <div class="image-container">
   <div class="image-item">
     <a href="https://articlemagick.softwareshinobi.digital/dashboard/index.html" target="_blank">
-      <img src="/portfolio/Content-Creation/Article-Magick/screens/screen1.jpg" alt="Image 1">
+      <img src="/assets/imagery/portfolio/articlemagick/screens/screen1.jpg" alt="Image 1">
       <div class="image-text">Home / Landing</div>
     </a>
   </div>
   <div class="image-item">
     <a href="https://articlemagick.softwareshinobi.digital/dashboard/article-magick-permalink.html" target="_blank">
-      <img src="/portfolio/Content-Creation/Article-Magick/screens/screen2.jpg" alt="Image 2">
+      <img src="/assets/imagery/portfolio/articlemagick/screens/screen2.jpg" alt="Image 2">
       <div class="image-text">Permalink Conversions</div>
     </a>
   </div>
   <div class="image-item">
     <a href="https://articlemagick.softwareshinobi.digital/dashboard/clean-format-text.html" target="_blank">
-      <img src="/portfolio/Content-Creation/Article-Magick/screens/screen3.jpg" alt="Image 3">
+      <img src="/assets/imagery/portfolio/articlemagick/screens/screen3.jpg" alt="Image 3">
       <div class="image-text">Text Clean & Format
 </div>
     </a>
   </div>
   <div class="image-item">
     <a href="https://articlemagick.softwareshinobi.digital/dashboard/rewrite-percent-difference.html" target="_blank">
-      <img src="/portfolio/Content-Creation/Article-Magick/screens/screen4.jpg" alt="Image 4">
+      <img src="/assets/imagery/portfolio/articlemagick/screens/screen4.jpg" alt="Image 4">
       <div class="image-text">Text % Difference</div>
     </a>
   </div>
