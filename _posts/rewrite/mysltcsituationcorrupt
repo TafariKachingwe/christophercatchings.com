@@ -1,0 +1,36 @@
+https://support.cpanel.net/hc/en-us/articles/360052698673-MySQL-will-not-start-error-contains-Bad-magic-header-in-tc-log
+
+ MySQL will not start, error contains "Bad magic header in tc log"
+Jason Brown
+
+    4 years ago Updated 
+
+Not yet followed by anyone
+Symptoms
+
+You may be trying to restart MySQL and see the following error:
+
+ 
+
+[ERROR] Bad magic header in tc log
+[ERROR] Crash recovery failed. Either correct the problem (if it's, for example, out of memory error) and restart, or delete tc log and start mysqld with --tc-heuristic-recover={commit|rollback}
+[ERROR] Can't init tc log
+[ERROR] Aborting
+
+ 
+
+ 
+Description 
+
+This might mean that the transaction coordinator log is corrupt.
+
+ 
+Workaround
+
+Remove or rename the tc.log file before restarting MySQL. To complete this, run the following commands as root via SSH or the WHM terminal:
+
+ 
+
+mv -vi /var/lib/mysql/tc.log /root
+/usr/local/cpanel/scripts/restartsrv_mysql
+
